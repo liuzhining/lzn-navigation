@@ -1,0 +1,2 @@
+.link-icon.missing img { display: none; }
+.link-icon.missing::after { content: attr(data-letter); }
