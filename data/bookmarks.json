@@ -1,37 +1,207 @@
 {
   "links": [
-    {"title":"ChatGPT","url":"https://chatgpt.com/","description":"OpenAI 的智能对话与创作助手","category":"AI工具","faviconUrl":"https://chatgpt.com/favicon.ico"},
-    {"title":"Gemini","url":"https://gemini.google.com/","description":"Google 的 AI 助手","category":"AI工具","faviconUrl":"https://gemini.google.com/favicon.ico"},
-    {"title":"Grok","url":"https://grok.com/","description":"xAI 的智能助手","category":"AI工具","faviconUrl":"https://grok.com/favicon.ico"},
-    {"title":"豆包","url":"https://www.doubao.com/chat/","description":"字节跳动旗下智能助手","category":"AI工具","faviconUrl":"https://www.doubao.com/favicon.ico"},
-    {"title":"千问","url":"https://www.qianwen.com/","description":"阿里云旗下 AI 助手","category":"AI工具","faviconUrl":"https://www.qianwen.com/favicon.ico"},
-    {"title":"DeepSeek","url":"https://chat.deepseek.com/","description":"深度求索智能对话","category":"AI工具","faviconUrl":"https://chat.deepseek.com/favicon.ico"},
-
-    {"title":"Google Analytics","url":"https://analytics.google.com/","description":"网站流量与用户行为分析","category":"站长工具","faviconUrl":"https://analytics.google.com/favicon.ico"},
-    {"title":"Google Search Console","url":"https://search.google.com/search-console/","description":"Google 搜索表现与收录管理","category":"站长工具","faviconUrl":"https://search.google.com/favicon.ico"},
-    {"title":"Google Tag Manager","url":"https://tagmanager.google.com/","description":"网站标签与统计代码管理","category":"站长工具","faviconUrl":"https://tagmanager.google.com/favicon.ico"},
-    {"title":"Google Merchant Center","url":"https://merchants.google.com/","description":"谷歌 Shopping 商品与商家管理","category":"站长工具","faviconUrl":"https://merchants.google.com/favicon.ico"},
-    {"title":"Google Trends","url":"https://trends.google.com/trends/","description":"谷歌趋势与搜索热度洞察","category":"站长工具","faviconUrl":"https://trends.google.com/favicon.ico"},
-    {"title":"Google Search Central","url":"https://developers.google.com/search/news","description":"查看 Google 搜索更新","category":"站长工具","faviconUrl":"https://developers.google.com/favicon.ico"},
-    {"title":"Microsoft Clarity","url":"https://clarity.microsoft.com/","description":"用户行为录屏与热力图分析","category":"站长工具","faviconUrl":"https://clarity.microsoft.com/favicon.ico"},
-    {"title":"Cloudflare","url":"https://dash.cloudflare.com/","description":"域名、DNS、CDN 与安全管理","category":"站长工具","faviconUrl":"https://dash.cloudflare.com/favicon.ico"},
-    {"title":"腾讯云","url":"https://cloud.tencent.com/","description":"腾讯云产品与资源管理","category":"站长工具","faviconUrl":"https://cloud.tencent.com/favicon.ico"},
-    {"title":"百度统计","url":"https://tongji.baidu.com/main/homepage/","description":"网站流量统计与分析","category":"站长工具","faviconUrl":"https://tongji.baidu.com/favicon.ico"},
-    {"title":"百度搜索资源","url":"https://ziyuan.baidu.com/dashboard/","description":"百度搜索收录与站点管理","category":"站长工具","faviconUrl":"https://ziyuan.baidu.com/favicon.ico"},
-
-    {"title":"GitHub","url":"https://github.com/liuzhining","description":"代码仓库与项目协作","category":"工作效率","faviconUrl":"https://github.com/favicon.ico"},
-    {"title":"Gmail","url":"https://mail.google.com/","description":"Google 邮箱","category":"工作效率","faviconUrl":"https://mail.google.com/favicon.ico"},
-    {"title":"Outlook","url":"https://outlook.office.com/mail/","description":"Microsoft 邮箱与日程","category":"工作效率","faviconUrl":"https://outlook.office.com/favicon.ico"},
-    {"title":"Google Translate","url":"https://translate.google.com/?hl=zh-cn","description":"Google 在线翻译","category":"工作效率","faviconUrl":"https://translate.google.com/favicon.ico"},
-    {"title":"Google Drive","url":"https://drive.google.com/","description":"谷歌云端硬盘","category":"工作效率","faviconUrl":"https://drive.google.com/favicon.ico"},
-    {"title":"百度网盘","url":"https://pan.baidu.com/","description":"文件存储与分享","category":"工作效率","faviconUrl":"https://pan.baidu.com/favicon.ico"},
-    {"title":"飞书","url":"https://www.feishu.cn/","description":"团队协作与办公平台","category":"工作效率","faviconUrl":"https://www.feishu.cn/favicon.ico"},
-
-    {"title":"得到","url":"https://www.dedao.cn/","description":"课程、听书与知识服务","category":"学习充电","faviconUrl":"https://www.dedao.cn/favicon.ico"},
-    {"title":"微信读书","url":"https://weread.qq.com/","description":"阅读与书架","category":"学习充电","faviconUrl":"https://weread.qq.com/favicon.ico"},
-    {"title":"Coursera","url":"https://www.coursera.org/","description":"在线课程学习平台","category":"学习充电","faviconUrl":"https://www.coursera.org/favicon.ico"},
-
-    {"title":"哔哩哔哩","url":"https://www.bilibili.com/","description":"视频与兴趣内容","category":"影音生活","faviconUrl":"https://www.bilibili.com/favicon.ico"},
-    {"title":"网易云音乐","url":"https://music.163.com/","description":"音乐与歌单","category":"影音生活","faviconUrl":"https://music.163.com/favicon.ico"}
+    {
+      "title": "ChatGPT",
+      "url": "https://chatgpt.com/",
+      "description": "OpenAI 的智能对话与创作助手",
+      "category": "AI工具",
+      "faviconUrl": "https://chatgpt.com/favicon.ico"
+    },
+    {
+      "title": "Gemini",
+      "url": "https://gemini.google.com/",
+      "description": "Google 的 AI 助手",
+      "category": "AI工具",
+      "faviconUrl": "https://gemini.google.com/favicon.ico"
+    },
+    {
+      "title": "Grok",
+      "url": "https://grok.com/",
+      "description": "xAI 的智能助手",
+      "category": "AI工具",
+      "faviconUrl": "https://grok.com/favicon.ico"
+    },
+    {
+      "title": "豆包",
+      "url": "https://www.doubao.com/chat/",
+      "description": "字节跳动旗下智能助手",
+      "category": "AI工具",
+      "faviconUrl": "https://www.doubao.com/favicon.ico"
+    },
+    {
+      "title": "千问",
+      "url": "https://www.qianwen.com/",
+      "description": "阿里云旗下 AI 助手",
+      "category": "AI工具",
+      "faviconUrl": "https://www.qianwen.com/favicon.ico"
+    },
+    {
+      "title": "DeepSeek",
+      "url": "https://chat.deepseek.com/",
+      "description": "深度求索智能对话",
+      "category": "AI工具",
+      "faviconUrl": "https://chat.deepseek.com/favicon.ico"
+    },
+    {
+      "title": "Google Analytics",
+      "url": "https://analytics.google.com/",
+      "description": "网站流量与用户行为分析",
+      "category": "站长工具",
+      "faviconUrl": "https://analytics.google.com/favicon.ico"
+    },
+    {
+      "title": "Google Search Console",
+      "url": "https://search.google.com/search-console/",
+      "description": "Google 搜索表现与收录管理",
+      "category": "站长工具",
+      "faviconUrl": "https://search.google.com/favicon.ico"
+    },
+    {
+      "title": "Google Tag Manager",
+      "url": "https://tagmanager.google.com/",
+      "description": "网站标签与统计代码管理",
+      "category": "站长工具",
+      "faviconUrl": "https://tagmanager.google.com/favicon.ico"
+    },
+    {
+      "title": "Google Merchant Center",
+      "url": "https://merchants.google.com/",
+      "description": "谷歌 Shopping 商品与商家管理",
+      "category": "站长工具",
+      "faviconUrl": "https://merchants.google.com/favicon.ico"
+    },
+    {
+      "title": "Google Trends",
+      "url": "https://trends.google.com/trends/",
+      "description": "谷歌趋势与搜索热度洞察",
+      "category": "站长工具",
+      "faviconUrl": "https://trends.google.com/favicon.ico"
+    },
+    {
+      "title": "Google Search Central",
+      "url": "https://developers.google.com/search/news",
+      "description": "查看 Google 搜索更新",
+      "category": "站长工具",
+      "faviconUrl": "https://developers.google.com/favicon.ico"
+    },
+    {
+      "title": "Microsoft Clarity",
+      "url": "https://clarity.microsoft.com/",
+      "description": "用户行为录屏与热力图分析",
+      "category": "站长工具",
+      "faviconUrl": "https://clarity.microsoft.com/favicon.ico"
+    },
+    {
+      "title": "Cloudflare",
+      "url": "https://dash.cloudflare.com/",
+      "description": "域名、DNS、CDN 与安全管理",
+      "category": "站长工具",
+      "faviconUrl": "https://dash.cloudflare.com/favicon.ico"
+    },
+    {
+      "title": "腾讯云",
+      "url": "https://cloud.tencent.com/",
+      "description": "腾讯云产品与资源管理",
+      "category": "站长工具",
+      "faviconUrl": "https://cloud.tencent.com/favicon.ico"
+    },
+    {
+      "title": "百度统计",
+      "url": "https://tongji.baidu.com/main/homepage/",
+      "description": "网站流量统计与分析",
+      "category": "站长工具",
+      "faviconUrl": "https://tongji.baidu.com/favicon.ico"
+    },
+    {
+      "title": "百度搜索资源",
+      "url": "https://ziyuan.baidu.com/dashboard/",
+      "description": "百度搜索收录与站点管理",
+      "category": "站长工具",
+      "faviconUrl": "https://ziyuan.baidu.com/favicon.ico"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/liuzhining",
+      "description": "代码仓库与项目协作",
+      "category": "工作效率",
+      "faviconUrl": "https://github.com/favicon.ico"
+    },
+    {
+      "title": "Gmail",
+      "url": "https://mail.google.com/",
+      "description": "Google 邮箱",
+      "category": "工作效率",
+      "faviconUrl": "https://mail.google.com/favicon.ico"
+    },
+    {
+      "title": "Outlook",
+      "url": "https://outlook.office.com/mail/",
+      "description": "Microsoft 邮箱",
+      "category": "工作效率",
+      "faviconUrl": "https://outlook.office.com/favicon.ico"
+    },
+    {
+      "title": "Google Translate",
+      "url": "https://translate.google.com/?hl=zh-cn",
+      "description": "Google 在线翻译",
+      "category": "工作效率",
+      "faviconUrl": "https://translate.google.com/favicon.ico"
+    },
+    {
+      "title": "Google Drive",
+      "url": "https://drive.google.com/",
+      "description": "谷歌云端硬盘",
+      "category": "工作效率",
+      "faviconUrl": "https://drive.google.com/favicon.ico"
+    },
+    {
+      "title": "百度网盘",
+      "url": "https://pan.baidu.com/",
+      "description": "文件存储与分享",
+      "category": "工作效率",
+      "faviconUrl": "https://pan.baidu.com/favicon.ico"
+    },
+    {
+      "title": "飞书",
+      "url": "https://www.feishu.cn/",
+      "description": "团队协作与办公平台",
+      "category": "工作效率",
+      "faviconUrl": "https://www.feishu.cn/favicon.ico"
+    },
+    {
+      "title": "得到",
+      "url": "https://www.dedao.cn/",
+      "description": "课程、听书与知识服务",
+      "category": "学习充电",
+      "faviconUrl": "https://www.dedao.cn/favicon.ico"
+    },
+    {
+      "title": "微信读书",
+      "url": "https://weread.qq.com/",
+      "description": "阅读与书架",
+      "category": "学习充电",
+      "faviconUrl": "https://weread.qq.com/favicon.ico"
+    },
+    {
+      "title": "Coursera",
+      "url": "https://www.coursera.org/",
+      "description": "在线课程学习平台",
+      "category": "学习充电",
+      "faviconUrl": "https://www.coursera.org/favicon.ico"
+    },
+    {
+      "title": "哔哩哔哩",
+      "url": "https://www.bilibili.com/",
+      "description": "视频与兴趣内容",
+      "category": "影音生活",
+      "faviconUrl": "https://www.bilibili.com/favicon.ico"
+    },
+    {
+      "title": "网易云音乐",
+      "url": "https://music.163.com/",
+      "description": "音乐与歌单",
+      "category": "影音生活",
+      "faviconUrl": "https://music.163.com/favicon.ico"
+    }
   ]
 }
