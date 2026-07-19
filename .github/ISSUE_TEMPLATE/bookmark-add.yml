@@ -1,0 +1,19 @@
+name: 添加书签
+description: 仅仓库拥有者可提交并生效。
+title: "【书签新增】"
+body:
+  - type: input
+    id: title
+    attributes: { label: 网站名称, placeholder: 例如：微信读书 }
+    validations: { required: true }
+  - type: input
+    id: url
+    attributes: { label: 网址, placeholder: "https://weread.qq.com" }
+    validations: { required: true }
+  - type: input
+    id: description
+    attributes: { label: 一句描述, placeholder: 阅读与书架 }
+  - type: input
+    id: category
+    attributes: { label: 分类, placeholder: 学习充电 }
+    validations: { required: true }

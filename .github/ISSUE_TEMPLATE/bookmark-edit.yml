@@ -1,0 +1,19 @@
+name: 修改书签
+description: 网站名称需与现有书签完全一致。
+title: "【书签修改】"
+body:
+  - type: input
+    id: title
+    attributes: { label: 网站名称, placeholder: 现有书签名称 }
+    validations: { required: true }
+  - type: input
+    id: url
+    attributes: { label: 网址, placeholder: "https://example.com" }
+    validations: { required: true }
+  - type: input
+    id: description
+    attributes: { label: 一句描述 }
+  - type: input
+    id: category
+    attributes: { label: 分类 }
+    validations: { required: true }
