@@ -202,6 +202,13 @@
       "description": "音乐与歌单",
       "category": "影音生活",
       "faviconUrl": "https://music.163.com/favicon.ico"
+    },
+    {
+      "title": "iKuuu VPN",
+      "url": "https://ikuuu.win/user",
+      "description": "科学上网",
+      "category": "工作效率",
+      "faviconUrl": "https://ikuuu.win/favicon.ico"
     }
   ]
 }
