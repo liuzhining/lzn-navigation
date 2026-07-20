@@ -94,7 +94,7 @@
     {
       "title": "Cloudflare",
       "url": "https://dash.cloudflare.com/",
-      "description": "域名、DNS、CDN 与安全管理",
+      "description": "DNS、CDN 与 R2存储",
       "category": "站长工具",
       "faviconUrl": "https://dash.cloudflare.com/favicon.ico"
     },
