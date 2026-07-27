@@ -230,6 +230,13 @@
       "description": "所有网站列表",
       "category": "我的工作",
       "faviconUrl": "https://www.aolstecell.com/favicon.ico"
+    },
+    {
+      "title": "辅助工具",
+      "url": "http://192.168.1.113/",
+      "description": "XX辅助工具",
+      "category": "我的工作",
+      "faviconUrl": "http://192.168.1.113/favicon.ico"
     }
   ]
 }
