@@ -251,6 +251,13 @@
       "description": "UptimeRobot",
       "category": "我的工作",
       "faviconUrl": "https://dashboard.uptimerobot.com/favicon.ico"
+    },
+    {
+      "title": "重定向检查",
+      "url": "https://www.websiteplanet.com/zh-hans/webtools/redirected/",
+      "description": "检查https与www跳转",
+      "category": "我的工作",
+      "faviconUrl": "https://www.websiteplanet.com/favicon.ico"
     }
   ]
 }
