@@ -244,6 +244,13 @@
       "description": "订单流量与销售统计",
       "category": "我的工作",
       "faviconUrl": "https://datastudio.google.com/favicon.ico"
+    },
+    {
+      "title": "掉线监控",
+      "url": "https://dashboard.uptimerobot.com/monitors",
+      "description": "UptimeRobot",
+      "category": "我的工作",
+      "faviconUrl": "https://dashboard.uptimerobot.com/favicon.ico"
     }
   ]
 }
