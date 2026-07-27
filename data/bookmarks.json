@@ -223,6 +223,13 @@
       "description": "本地订单系统",
       "category": "我的工作",
       "faviconUrl": "http://192.168.1.136:91/favicon.ico"
+    },
+    {
+      "title": "公司全部网站",
+      "url": "https://www.aolstecell.com/AllWebsite.htm#LZN",
+      "description": "所有网站列表",
+      "category": "我的工作",
+      "faviconUrl": "https://www.aolstecell.com/favicon.ico"
     }
   ]
 }
