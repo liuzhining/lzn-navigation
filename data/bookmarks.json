@@ -43,6 +43,62 @@
       "faviconUrl": "https://chat.deepseek.com/favicon.ico"
     },
     {
+      "title": "订单系统-正式",
+      "url": "http://43.135.182.176:86/MainSystem/Index.aspx",
+      "description": "线上订单系统",
+      "category": "我的工作",
+      "faviconUrl": "http://43.135.182.176:86/favicon.ico"
+    },
+    {
+      "title": "订单系统-测试",
+      "url": "http://192.168.1.136:91/MainSystem/Index.aspx",
+      "description": "本地订单系统",
+      "category": "我的工作",
+      "faviconUrl": "http://192.168.1.136:91/favicon.ico"
+    },
+    {
+      "title": "公司全部网站",
+      "url": "https://www.aolstecell.com/AllWebsite.htm#LZN",
+      "description": "所有网站列表",
+      "category": "我的工作",
+      "faviconUrl": "https://www.aolstecell.com/favicon.ico"
+    },
+    {
+      "title": "辅助工具",
+      "url": "http://192.168.1.113/",
+      "description": "XX辅助工具",
+      "category": "我的工作",
+      "faviconUrl": "http://192.168.1.113/favicon.ico"
+    },
+    {
+      "title": "订单流量表",
+      "url": "https://datastudio.google.com/u/0/reporting/421b1913-cee4-4bdb-be22-0f102f917383",
+      "description": "订单流量与销售统计",
+      "category": "我的工作",
+      "faviconUrl": "https://datastudio.google.com/favicon.ico"
+    },
+    {
+      "title": "掉线监控",
+      "url": "https://dashboard.uptimerobot.com/monitors",
+      "description": "UptimeRobot",
+      "category": "我的工作",
+      "faviconUrl": "https://dashboard.uptimerobot.com/favicon.ico"
+    },
+    {
+      "title": "重定向检查",
+      "url": "https://www.websiteplanet.com/zh-hans/webtools/redirected/",
+      "description": "检查https与www跳转",
+      "category": "我的工作",
+      "faviconUrl": "https://www.websiteplanet.com/favicon.ico"
+    },
+    {
+      "title": "Gitee企业版",
+      "url": "https://e.gitee.com/aolist/dashboard",
+      "description": "公司项目提交推送",
+      "category": "我的工作",
+      "faviconUrl": "https://e.gitee.com/favicon.ico"
+    },
+    {
       "title": "Google Analytics",
       "url": "https://analytics.google.com/",
       "description": "网站流量与用户行为分析",
@@ -209,62 +265,6 @@
       "description": "国外视频网站",
       "category": "影音生活",
       "faviconUrl": "https://www.youtube.com/favicon.ico"
-    },
-    {
-      "title": "订单系统-正式",
-      "url": "http://43.135.182.176:86/MainSystem/Index.aspx",
-      "description": "线上订单系统",
-      "category": "我的工作",
-      "faviconUrl": "http://43.135.182.176:86/favicon.ico"
-    },
-    {
-      "title": "订单系统-测试",
-      "url": "http://192.168.1.136:91/MainSystem/Index.aspx",
-      "description": "本地订单系统",
-      "category": "我的工作",
-      "faviconUrl": "http://192.168.1.136:91/favicon.ico"
-    },
-    {
-      "title": "公司全部网站",
-      "url": "https://www.aolstecell.com/AllWebsite.htm#LZN",
-      "description": "所有网站列表",
-      "category": "我的工作",
-      "faviconUrl": "https://www.aolstecell.com/favicon.ico"
-    },
-    {
-      "title": "辅助工具",
-      "url": "http://192.168.1.113/",
-      "description": "XX辅助工具",
-      "category": "我的工作",
-      "faviconUrl": "http://192.168.1.113/favicon.ico"
-    },
-    {
-      "title": "订单流量表",
-      "url": "https://datastudio.google.com/u/0/reporting/421b1913-cee4-4bdb-be22-0f102f917383",
-      "description": "订单流量与销售统计",
-      "category": "我的工作",
-      "faviconUrl": "https://datastudio.google.com/favicon.ico"
-    },
-    {
-      "title": "掉线监控",
-      "url": "https://dashboard.uptimerobot.com/monitors",
-      "description": "UptimeRobot",
-      "category": "我的工作",
-      "faviconUrl": "https://dashboard.uptimerobot.com/favicon.ico"
-    },
-    {
-      "title": "重定向检查",
-      "url": "https://www.websiteplanet.com/zh-hans/webtools/redirected/",
-      "description": "检查https与www跳转",
-      "category": "我的工作",
-      "faviconUrl": "https://www.websiteplanet.com/favicon.ico"
-    },
-    {
-      "title": "Gitee企业版",
-      "url": "https://e.gitee.com/aolist/dashboard",
-      "description": "公司项目提交推送",
-      "category": "我的工作",
-      "faviconUrl": "https://e.gitee.com/favicon.ico"
     }
   ]
 }
