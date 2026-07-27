@@ -237,6 +237,13 @@
       "description": "XX辅助工具",
       "category": "我的工作",
       "faviconUrl": "http://192.168.1.113/favicon.ico"
+    },
+    {
+      "title": "订单流量表",
+      "url": "https://datastudio.google.com/u/0/reporting/421b1913-cee4-4bdb-be22-0f102f917383",
+      "description": "订单流量与销售统计",
+      "category": "我的工作",
+      "faviconUrl": "https://datastudio.google.com/favicon.ico"
     }
   ]
 }
