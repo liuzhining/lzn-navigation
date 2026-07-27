@@ -258,6 +258,13 @@
       "description": "检查https与www跳转",
       "category": "我的工作",
       "faviconUrl": "https://www.websiteplanet.com/favicon.ico"
+    },
+    {
+      "title": "Gitee企业版",
+      "url": "https://e.gitee.com/aolist/dashboard",
+      "description": "公司项目提交推送",
+      "category": "我的工作",
+      "faviconUrl": "https://e.gitee.com/favicon.ico"
     }
   ]
 }
