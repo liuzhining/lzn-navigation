@@ -216,6 +216,13 @@
       "description": "线上订单系统",
       "category": "我的工作",
       "faviconUrl": "http://43.135.182.176:86/favicon.ico"
+    },
+    {
+      "title": "订单系统-测试",
+      "url": "http://192.168.1.136:91/MainSystem/Index.aspx",
+      "description": "本地订单系统",
+      "category": "我的工作",
+      "faviconUrl": "http://192.168.1.136:91/favicon.ico"
     }
   ]
 }
